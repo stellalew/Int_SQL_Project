@@ -20,7 +20,7 @@ Query: [1_customer_segmentation.sql](/1_customer_segmentation.sql)
 
 **Visualizations:**
 
-<img src="images/1_customer_segmentation.png" width='75%'>                                      
+<img src="images/1_customer_segmentation.png" width='50%'>                                      
 
 **Key Findings:**
 - High-value segment (25% of customers) drives almost 66% of revenue ($135.4M)
@@ -44,7 +44,7 @@ Query: [2_cohort_analysis.sql](/2_cohort_analysis.sql)
 
 Customer Revenue by Cohort (Adjusted for time in market) - First Purchase Date
 
-<img src="images/2_cohort_analysis.png">
+<img src="images/2_cohort_analysis.png" width='50%'>
 
 **Key Findings:**
 - Revenue per customer shows an alarming decreasing trend over time
@@ -66,7 +66,7 @@ Query: [3_retention_analysis.sql](/3_retention_analysis.sql)
 
 **Visualizations:**
 
-<img src='images/3_customer_churn_cohort_year.png'>
+<img src='images/3_customer_churn_cohort_year.png' width='50%'>
 
 **Key Findings:**
 - Cohort churn stabilizes at roughly 90% after 2-3 years, indicating a possible long-term retention pattern.
